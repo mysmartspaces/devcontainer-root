@@ -1,6 +1,6 @@
 # Visual Studio Code Development Container
 
-`paniclobster/devcontainer-base` is a Docker image built upon both Alpine and
+`Container built on both Alpine and
 Debian with a configurable setup for different development workspaces needs.
 
 [![build](https://github.com/paniclobster/devcontainer-base/workflows/build/badge.svg)](https://github.com/paniclobster/devcontainer-base/actions/)
