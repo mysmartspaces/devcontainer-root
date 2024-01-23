@@ -47,12 +47,8 @@ Debian with a configurable setup for different development workspaces needs.
 - Python 2 (python2)
 - Python 3 (python3)
 
-## Contributing
-
-Feel free to contribute with this library. For more information, take a look at
-our
 [contributing guide](https://github.com/paniclobster/devcontainer-base/blob/main/CONTRIBUTING.md).
 
 ## License
 
-[MIT](https://github.com/paniclobster/devcontainer-base/blob/main/LICENSE)
+[MIT](https://github.com/mysmartspaces/devcontainer/blob/main/LICENSE)
